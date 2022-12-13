@@ -96,8 +96,11 @@ nav .fa{
 
 @media(max-width: 700px){
     .text-box h1{
-        font-size: 20px;
+        font-size: 28px;
 }
+    .text-box p{
+        font-size: 12px;
+    }
 .nav-link ul li{
     list-style: none;
     display: block;   
